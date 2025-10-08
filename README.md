@@ -7,6 +7,9 @@ The app has three main pages:
 
 The goal is simple: help users understand their mental state and take steps toward a fulfilling, meaningful life.
 
+### 🔗 Live Demo: [Feel Better: the site](https://apoorvatiwari26.github.io/Feel-Better/)
+
+
 ## Tech Stack
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
