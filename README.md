@@ -1,5 +1,5 @@
 # Introducing Feel Better, your mental health companion
-Feel Better is a web app focused on spreading mental health awareness and helping users improve their well-being. It has a clean, minimalist design for an easy and confusion-free experience.
+Feel Better is a website focused on spreading mental health awareness and helping users improve their well-being. It has a clean, minimalist design for an easy and confusion-free experience.
 The app has three main pages:
 * Home – Overview, contact info, testimonials, and navigation.
 * Blog – Articles and tips to help users prioritize their mental health.
